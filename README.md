@@ -1,10 +1,11 @@
 # Translate using Google Free API and Go Lang
 (this is a simple example)
 ### For test this code:
- - **install go lang: https://golang.org/doc/install**
+- **Install go lang:**<br/>*https://golang.org/doc/install*
 
- - **open the folder of project in your terminal:**
-*cd translate-using-google-free-api-and-golang*
+- **Open your terminal and clone this repo with command:**<br/>
+*git clone https://github.com/barrsofilho/translate-using-google-free-api-and-golang.git*
 
- - **run this command in your terminal**
-*go run .*
+- **Open the folder of this project in your terminal:**<br/>*cd translate-using-google-free-api-and-golang*
+
+- **Run this command in your terminal** <br/> *go run .*
