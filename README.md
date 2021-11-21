@@ -1,4 +1,4 @@
-# Translate using Google Free API and Go Lang
+# Translate using Free Google Tranlate API with Go Lang
 (this is a simple example)
 ### For test this code:
 - **Install go lang:**<br/>*https://golang.org/doc/install*
