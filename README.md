@@ -8,4 +8,4 @@
 
 - **Open the folder of this project in your terminal:**<br/>*cd translate-using-google-free-api-and-golang*
 
-- **Run this command in your terminal** <br/> *go run .*
+- **Run this command in your terminal** <br/> *go run translate.go*
